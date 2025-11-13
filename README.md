@@ -61,6 +61,4 @@ This application is running on Linux without PowerShell. The web interface is fu
 - **Font**: IBM Plex Mono (authentic terminal look)
 - **Design**: Blue/cyan FoxPro-style retro terminal
 
-## 📄 License
 
-Built with ❤️ on the Emergent platform
