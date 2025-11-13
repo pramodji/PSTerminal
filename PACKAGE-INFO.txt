@@ -1,0 +1,20 @@
+PSWeb Portable Deployment Package
+===================================
+
+Package created: Wed 11/12/2025 23:14:49.35
+
+Contents:
+- Backend with Python virtual environment
+- Frontend with Node.js dependencies
+- All launcher scripts
+- Configuration files
+
+Deployment Instructions:
+------------------------
+1. Copy entire PSWeb-main folder to target computer
+2. Install Python 3.10+ and Node.js 18+ on target
+3. Run START.bat to launch the application
+
+No internet connection required for deployment!
+
+Folder Sizes:
